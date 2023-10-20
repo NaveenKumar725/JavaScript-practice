@@ -1,0 +1,14 @@
+
+.yellow{
+    background-color: yellow;
+    color: white;
+}
+
+.red{
+    background-color: red;
+    color: burlywood;
+}
+.bold{
+    font-size: 50px;
+    text-underline-offset: inherit;
+}
